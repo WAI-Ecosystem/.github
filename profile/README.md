@@ -1,16 +1,20 @@
 # WAI Ecosystem
 
-AI-powered ecosystem for commerce, tools, and human-centered digital experiences.
+WAI Ecosystem is an AI-powered platform focused on commerce, tools, and human-centered digital experiences.
 
-## Core Repositories
+## What we build
 - `wai-ecosystem` — frontend platform
 - `wai-backend` — backend API and services
 
-## Focus
-- Clean product architecture
-- Secure-by-default engineering
-- Scalable workflows
-- Professional deployment standards
+## Engineering principles
+- Clean architecture
+- Secure-by-default workflows
+- Scalable deployment standards
+- Clear repository structure
 
-## Official Links
+## Official links
 - Website: https://waiecosystem.com
+- Preview: https://wai-ecosystem.vercel.app
+
+## Status
+Actively building core platform, backend services, and developer workflows.
