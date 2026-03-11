@@ -1,0 +1,19 @@
+# Default owner
+* @Chakra0326
+
+# GitHub config and workflows
+.github/** @Chakra0326
+
+# App routes and frontend structure
+app/** @Chakra0326
+pages/** @Chakra0326
+public/** @Chakra0326
+types/** @Chakra0326
+www/** @Chakra0326
+
+# Main config files
+package.json @Chakra0326
+package-lock.json @Chakra0326
+next.config.* @Chakra0326
+middleware.ts @Chakra0326
+tsconfig.json @Chakra0326
